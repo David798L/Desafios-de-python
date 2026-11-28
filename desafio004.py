@@ -1,0 +1,8 @@
+leia = input('digite o que quiser!')
+print(('Esta capitalizado'),(leia.istitle()))
+print(('É numerico?'),(leia.isnumeric()))
+print(('É alfabetico?'),(leia.isalpha()))
+print(('É alfanumerico?'),(leia.isalnum()))
+print(('Esta em letra maiuscula?'),(leia.isupper()))
+print(('Esta em letra minuscula?'),(leia.islower()))
+print(('Tem espaço'),(leia.isspace()))
